@@ -1,4 +1,7 @@
 package edu.oregonstate.cs361.battleship;
+/** 
+*This is licensed to be used by all, as long as not used for evil
+*/
 
 /**
  * Created by michaelhilton on 1/8/17.

@@ -1,5 +1,7 @@
 package edu.oregonstate.cs361.battleship;
-
+/** 
+This is licensed to be used by all, as long as not used for evil
+*/
 import com.google.gson.Gson;
 import spark.Request;
 

@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+/** 
+*This is licensed to be used by all, as long as not used for evil
+*/
+
+
 /**
  * Created by michaelhilton on 1/4/17.
  */
